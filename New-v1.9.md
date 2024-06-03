@@ -1,10 +1,10 @@
 {
-"Title": "☆  بروزرسانی جدید  ☆",
-"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
-"Link": "tg://resolve?domain=Vpn_Shield",
-"ColorWave": "#FFFF00",
-"Color": "#FFFF00",
-"ColorWaveTwo": "#FFD600",
+"Title": "⚠️ بازی کن پول در بیار ⚠️",
+"Description": "به راحتی از تلگرام میلیونی پول در بیار ، فقط کافیه وارد ربات تلگرامی که بهت میگم بشی و با لمس کردن صفحه گوشیت سکه جمع کنی ، وقتی برداشت باز شد بهت میگم چطوری سکه رو بفروشی (مثل ناتکوین از دستش نده قیمتش بالاس) 👇",
+"Link": "https://t.me/hamster_koMbat_bot/start?startapp=kentId5879501917",
+"ColorWave": "#7C4DFF",
+"Color": "#7C4DFF",
+"ColorWaveTwo": "#651FFF",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -14,11 +14,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "true",
-"MessageID": "1",
-"ShowTime": "999",
-"Button": "  دریافت نسخه جدید  ",
-"ButtonCancell": " بعدا ",
+"Cancellable": "false",
+"MessageID": "1288300327",
+"ShowTime": "3",
+"Button": " شروع بازی در تلگرام ",
+"ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
 }
